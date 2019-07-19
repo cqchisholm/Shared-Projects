@@ -1,2 +1,2 @@
 # Shared-Projects
-Projects worked on from Dataquest courses
+Projects worked on from Dataquest courses.
